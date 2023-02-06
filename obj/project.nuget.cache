@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+/pH58BaW5yp2WXLn8V1l6i46lfbvBAuiF/Sb3FI9q6B5qCo49k8qyc1ar6hgpKYmWzmsP8iZPQOniw+P0EHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hitec\\OneDrive\\Рабочий стол\\010101011000111\\Programming\\VisualStudio\\БОТ\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hitec\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\hitec\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\hitec\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\hitec\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\hitec\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\hitec\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
